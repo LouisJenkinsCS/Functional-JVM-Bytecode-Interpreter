@@ -1,5 +1,7 @@
 # Minimal-JVM
 
+**Code for the JVM->LLVM JIT Compiler (Proof-of-Concept) is here: https://github.com/LouisJenkinsCS/LLVM-JVM**
+
 ## What is it?
 
 A 'toy' JVM interpreter written in Haskell. Currently, it is considered a 'toy' in that it is not
